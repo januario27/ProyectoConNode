@@ -1,0 +1,25 @@
+{
+  "name": "proyectoconnode",
+  "version": "1.0.0",
+  "description": "Test con node",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/januario27/ProyectoConNode.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Ivan JPT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/januario27/ProyectoConNode/issues"
+  },
+  "homepage": "https://github.com/januario27/ProyectoConNode#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
